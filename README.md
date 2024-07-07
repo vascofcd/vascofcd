@@ -1,4 +1,7 @@
-## Competitive Audits  
+# Auditing portfolio
+My Web3 security reports under the alias fjodor.
+
+## Audit contests
 
 | Platform  | Contest                                               | High | Medium | Low  |                               Report                                 |
 | :-------: | :---------------------------------------------------: | :--: | :----: | :--: | :------------------------------------------------------------------: |
