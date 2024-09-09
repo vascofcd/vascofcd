@@ -1,5 +1,4 @@
 # Auditing portfolio
-My Web3 security reports under the alias fjodor.
 
 ## Audit contests
 
